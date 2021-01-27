@@ -3,7 +3,7 @@ package taotao;
 public class a {
 
 	public static void main(String[] args) {
-		System.out.println("asd");
+		System.out.println("殷海鹏");
 	}
 
 }
